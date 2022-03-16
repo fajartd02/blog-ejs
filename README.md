@@ -16,7 +16,7 @@ This is project that i learned from Angela Yu
  - View Contact Us
 
  ## Hidden Route
- Functionality of Hidden Route is for you to create a diary blog.
+ Functionality of Hidden Route is for you to create a diary blog. <br />
  To use this, you can use route:
  ```bash
 localhost:3000/posts/compose
